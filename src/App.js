@@ -1,5 +1,8 @@
 import { useState } from 'react';
 import './App.css';
+import Average from './Average';
+import AverageMemo from './AverageMemo';
+import AverageCallback from './AverageCallback';
 import Counter from './Counter';
 import CounterReducer from './CounterReducer';
 import Info from './Info';
@@ -19,6 +22,12 @@ function App() {
       <CounterReducer />
       <hr />
       <InfoReducer />
+      <hr />
+      <Average />
+      <hr />
+      <AverageMemo />
+      <hr />
+      <AverageCallback />
     </>
   );
 }

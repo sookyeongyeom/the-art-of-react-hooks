@@ -5,8 +5,8 @@
 - [x] useState
 - [x] useEffect
 - [x] useReducer
-- [ ] useMemo
-- [ ] useCallback
+- [x] useMemo
+- [x] useCallback
 - [ ] useRef
 - [ ] 커스텀 Hooks 만들기
 - [ ] 다른 Hooks
