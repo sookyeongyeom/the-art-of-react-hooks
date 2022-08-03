@@ -7,6 +7,7 @@ import Counter from './Counter';
 import CounterReducer from './CounterReducer';
 import Info from './Info';
 import InfoReducer from './InfoReducer';
+import InfoCustom from './InfoCustom';
 
 function App() {
   const [visible, setVisible] = useState(false);
@@ -28,6 +29,8 @@ function App() {
       <AverageMemo />
       <hr />
       <AverageCallback />
+      <hr />
+      <InfoCustom />
     </>
   );
 }

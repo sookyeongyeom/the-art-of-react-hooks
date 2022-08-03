@@ -7,7 +7,7 @@
 - [x] useReducer
 - [x] useMemo
 - [x] useCallback
-- [ ] useRef
-- [ ] 커스텀 Hooks 만들기
-- [ ] 다른 Hooks
-- [ ] 정리
+- [x] useRef
+- [x] 커스텀 Hooks 만들기
+- [x] 다른 Hooks
+- [x] 정리
