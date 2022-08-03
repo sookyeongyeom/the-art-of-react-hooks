@@ -3,8 +3,8 @@
 ## 8장 Hooks
 
 - [x] useState
-- [ ] useEffect
-- [ ] useReducer
+- [x] useEffect
+- [x] useReducer
 - [ ] useMemo
 - [ ] useCallback
 - [ ] useRef
